@@ -1,4 +1,4 @@
-# 📝 Team Task Manager (MERN Stack)
+# 📝 Team Task Manager 
 
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
@@ -44,7 +44,7 @@ pass - test12345
 
 ```bash
 # Clone the repo
-git clone https://github.com/intensity4143/Task-Manager.git
+git clone https://github.com/ChidireSriHarsha/Team_Task_Manager
 cd task-manager
 
 # Install backend dependencies
