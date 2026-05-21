@@ -44,7 +44,7 @@ pass - test12345
 
 ```bash
 # Clone the repo
-git clone https://github.com/ChidireSriHarsha/Team_Task_Manager
+git clone https://github.com/ChidireSriHarsha/Team_Task_Manager.git
 cd task-manager
 
 # Install backend dependencies
