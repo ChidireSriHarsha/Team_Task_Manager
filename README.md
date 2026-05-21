@@ -71,4 +71,4 @@ npm run dev
 Task deadlines and due reminders
 
 ✨ Author
-Made with ❤️ by Your Intensity
+Made with ❤️ by Your Chidire Sri Harsha
